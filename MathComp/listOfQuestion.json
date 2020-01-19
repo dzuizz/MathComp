@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "Find the missing term in the following sequence: 1, 2, 4, 7,_____, 16",
+      "availableAnswer": [
+        "A: 10",
+        "B: 11",
+        "C: 12",
+        "D: 13",
+        "E: 14"
+      ],
+      "correctAnswer": "B: 11",
+      "type": "multipleChoice"
+    },
+    {
+      "question": "2\u2075 means 2 multiplied by itself 5 times, i.e. 2\u2075 = 2 × 2 × 2 × 2 ×  2. What is 3\u2074 equal to?",
+      "availableAnswer": [
+        "A: 7",
+        "B: 12",
+        "C: 27",
+        "D: 81",
+        "E: None of the above"
+      ],
+      "correctAnswer": "D: 81",
+      "type": "multipleChoice"
+    },
+    {
+      "question": "An operator ✧ acts on two numbers to give the following outcomes:\n3 ✧ 2 = 51\n5 ✧ 3 = 82\n6 ✧ 1 = 75\n9 ✧ 4 = 135\n                       What is 7 ✧ 5 equal to?",
+      "availableAnswer": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "4",
+      "type": "multipleChoice"
+    }
+  ]
+}
